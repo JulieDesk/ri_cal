@@ -4,4 +4,5 @@ pkg/
 profiles/
 doc/
 \.DS_Store
-.ackrc
+.ackr
+.idea/
